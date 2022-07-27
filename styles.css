@@ -29,9 +29,6 @@ flex-wrap: wrap;
 margin: 10px;
 background-color:#3b96b6;
 }
-.mb-3{
-box-shadow: 5 5 5 20;
-}
 .mapouter {
   position: relative;
   text-align: right;
