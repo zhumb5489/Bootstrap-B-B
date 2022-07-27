@@ -8,9 +8,7 @@ background-color:white;
 font-size: 1.3em;
 color: #3b96b6;
 }
-.card{
-  box-shadow: 5 5 5 20;
-}
+
 
 body{
   background-image: url(background.webp);
@@ -29,7 +27,7 @@ align-items: center;
 justify-content: center;
 flex-wrap: wrap;
 margin: 10px;
-background-color: #3b96b6;
+background-color:#3b96b6;
 }
 .mb-3{
 box-shadow: 5 5 5 20;
